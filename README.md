@@ -1,10 +1,13 @@
-<h1>Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Silveira</h1>
+<h1>Hello there, I'm Guilherme Silveira </h1>
 
-- 🏛 Graduating in **Information Systems** at **University of Pernambuco (UPE)**
-- 📚 I’m currently learning **React & TypeScript**
-- 🔭 Looking to become a **FullStack Developer**
-- 💎 I love to **meditate, walk, read & spend some time with my loved ones & friends**
-- ✌🏼 You can reach me at my LinkedIn 👉🏼 <a href="https://www.linkedin.com/in/guilherme-silveira-coutinho/" target="_blank">
+- [cite_start]🎓 Graduado em **Sistemas de Informação** pela **Universidade de Pernambuco (UPE)**.
+- 🎯 Desenvolvedor Full-stack | [cite_start]Foco em soluções escaláveis e resilientes usando **Node.js, React e AWS**.
+- 🚀 Atualmente em um projeto de **Imersão Contínua** para dominar a fundo **Next.js e NestJS**.
+- 🛠 Buscando atuar como Full-Stack Dev, aplicando minha experiência em arquitetura de microsserviços.
+- 🧘🏻‍♂️ Nos meus momentos livres, foco em **meditar, caminhar e brincar com meu cachorro**.
+- 📫 Você pode me contatar via email: [guisilveira.cout@gmail.com](mailto:guisilveira.cout@gmail.com) ou LinkedIn: 👇🏼
+
+<a href="https://www.linkedin.com/in/guilherme-silveira-coutinho/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Guilherme Silveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <br>
