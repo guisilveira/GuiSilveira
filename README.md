@@ -1,7 +1,7 @@
 <h1>Hello there, I'm Guilherme Silveira </h1>
 
 - 🎓 Graduado em **Sistemas de Informação** pela **Universidade de Pernambuco (UPE)**.
-- 🎯 Desenvolvedor Full-stack | [cite_start]Foco em soluções escaláveis e resilientes usando **Node.js, React e AWS**.
+- 🎯 Desenvolvedor Full-stack | Foco em soluções escaláveis e resilientes usando **Node.js, React e AWS**.
 - 🚀 Atualmente em um projeto de **Imersão Contínua** para dominar a fundo **Next.js e NestJS**.
 - 🛠 Buscando atuar como Full-Stack Dev, aplicando minha experiência em arquitetura de microsserviços.
 - 🧘🏻‍♂️ Nos meus momentos livres, foco em **meditar, caminhar e brincar com meu cachorro**.
